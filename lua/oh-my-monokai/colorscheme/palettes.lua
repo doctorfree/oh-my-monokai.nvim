@@ -1,3 +1,3 @@
 return {
-'default', 'doctorfree', 'justinsgithub',
+'default', 'doctorfree', 'justinsgithub', 'lazyman',
 }
